@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "express-prac",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
